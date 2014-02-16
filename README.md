@@ -27,3 +27,7 @@ Here is some text.
 "Please split it. Then print it," she said.
 "Then Mr. Johnson wants to speak with you"
 ```
+
+### Still Under Development
+
+This package makes use of the same test cases as Python's NLTK, but as of now is not passing all the tests. In particular, it still struggles on abbreviations, and is unable to train for different languages. This functionality will hopefully be added soon, but it is not recommended that you use this for anything important.
